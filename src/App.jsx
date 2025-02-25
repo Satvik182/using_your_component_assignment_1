@@ -21,7 +21,7 @@ function App() {
     {
       id: 3,
       image: "https://images3.penguinrandomhouse.com/cover/9781933771106",
-      name: "History Revisited",
+      name: "History  Revisited",
       genre: "Non-Fiction",
       author: "Emily Johnson",
     },
